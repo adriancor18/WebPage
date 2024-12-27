@@ -8040,3 +8040,30 @@ a.text-dark:hover {
 .invisible {
     visibility: hidden!important
 }
+
+.card-header-codepremium {
+    background-image: url('../images/codepremium.png');
+	background-size: 30%; /* Reduce el tamaño al 50% */
+    background-position: center;
+	background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-color: rgba(255, 255, 255, 0.2); /* Fondo blanco con 50% de opacidad */
+    min-height: 140px;
+}
+
+.card-header-cobra {
+    background-image: url('../images/cobra.png');
+	background-size: 45%; /* Reduce el tamaño al 50% */
+    background-position: center;
+	background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-color: rgba(255, 255, 255, 0.2); /* Fondo blanco con 50% de opacidad */
+    min-height: 100px;
+}
+
+.card-header-tadatic {
+    background-image: url('../images/tadatic.png');
+	background-size: 70%; /* Reduce el tamaño al 50% */
+    background-position: center;
+	background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-color: rgba(255, 255, 255, 0.2); /* Fondo blanco con 50% de opacidad */
+    min-height: 200px;
+}
